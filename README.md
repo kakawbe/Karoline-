@@ -1,5 +1,5 @@
 Boas vindas ao meu perfil 💙💙
-Meu Karoline Silva
+Meu nome Karoline Silva
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
